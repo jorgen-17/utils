@@ -1,0 +1,1 @@
+npm install https://github.com/user/repo.git#branch
