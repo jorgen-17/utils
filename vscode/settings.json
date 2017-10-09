@@ -23,5 +23,6 @@
         "**/bower_components": true,
         "**/coverage": true,
         "**/lib": true
-    }
+    },
+    "workbench.colorTheme": "Brogrammer"
 }
