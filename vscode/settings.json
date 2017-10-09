@@ -24,5 +24,7 @@
         "**/coverage": true,
         "**/lib": true
     },
-    "workbench.colorTheme": "Brogrammer"
+    "workbench.colorTheme": "Brogrammer",
+    "git.enableSmartCommit": true,
+    "git.confirmSync": false
 }
