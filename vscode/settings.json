@@ -27,5 +27,9 @@
     "workbench.colorTheme": "Brogrammer",
     "git.enableSmartCommit": true,
     "git.confirmSync": false,
-    "workbench.iconTheme": "material-icon-theme"
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorCustomizations": {
+        "editor.selectionBackground": "#0468FE",
+        "editor.selectionHighlightBackground": "#0468FE"
+    }
 }
